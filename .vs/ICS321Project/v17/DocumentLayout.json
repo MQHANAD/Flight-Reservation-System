@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zord\\OneDrive - KFUPM\\KFUPM\\232\\ICS321\\Project\\ICS321Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA07118-1309-4959-867F-AB437C98DB7E}|ICS321Project\\ICS321Project.csproj|c:\\users\\zord\\onedrive - kfupm\\kfupm\\232\\ics321\\project\\ics321project\\ics321project\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA07118-1309-4959-867F-AB437C98DB7E}|ICS321Project\\ICS321Project.csproj|solutionrelative:ics321project\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 344,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\OneDrive - KFUPM\\KFUPM\\232\\ICS321\\Project\\ICS321Project\\ICS321Project\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "ICS321Project\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\Zord\\OneDrive - KFUPM\\KFUPM\\232\\ICS321\\Project\\ICS321Project\\ICS321Project\\ReportsForm.cs",
+              "RelativeToolTip": "ICS321Project\\ReportsForm.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:19:10.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
